@@ -5,8 +5,9 @@ Git 기본 명령어(`init`, `add`, `commit`, `push`, `pull`)를 연습하기 �
 
 ## 파일
 
-- `skn35.txt` — 연습용 텍스트
-- `work.txt` — 연습용 텍스트
+전부 연습용 텍스트 파일이에요.
+
+- `skn35.txt`, `work.txt`, `mydev.txt`, `color.txt`, `green.txt`
 
 ---
 
