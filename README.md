@@ -9,6 +9,10 @@ Git 기본 명령어(`init`, `add`, `commit`, `push`, `pull`)를 연습하기 �
 
 - `skn35.txt`, `work.txt`, `mydev.txt`, `color.txt`, `green.txt`
 
+## 코드 구성 / 트러블슈팅
+
+실행되는 코드가 없는 Git 연습용 저장소라 해당 사항 없어요.
+
 ---
 
 🤖 이 저장소의 README는 Claude Code와 함께 작성했어요.
